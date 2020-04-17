@@ -2,13 +2,13 @@
 
 # String Manipulation and Expanding Variables
  
-var=" hello world dddd"
+var="hello world dddd"
 echo ${#var}	        # Find the length of the string
 echo ${var%d}	        # Remove from shortest rear (end) pattern
 echo ${var%%d}	        # Remove from longest rear (end) pattern
-# ${var:num1:num2}	Substring
-# ${var#pattern}	Remove from shortest front pattern
-# ${var##pattern}	Remove from longest front pattern
+echo ${var:0:5}         # ${var:num1:num2}	Substring
+echo ${var#he}	        # ${var#pattern}	Remove from shortest front pattern
+echo ${var##he}		# ${var##pattern}	Remove from longest front pattern
 # ${var/pattern/string}	Find and replace (only replace first occurrence)
 # ${var//pattern/string}	Find and replace all occurrences
 # ${!prefix*}	Expands to the names of variables whose names begin with prefix.
