@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.5] - 2020-06-26
+### Changed
+- Display error msg when var is not set
+
 ## [0.1.4] - 2020-04-17
 ### Changed
 - String manipulation in bash update

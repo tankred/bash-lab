@@ -3,6 +3,8 @@
 # String Manipulation and Expanding Variables
  
 var="hello world dddd"
+parameter="parameter"
+echo ${parameter:?"Error Message, parameter not set"}	# Display an error message if parameter is not set
 echo ${#var}	        # Find the length of the string
 echo ${var%d}	        # Remove from shortest rear (end) pattern
 echo ${var%%d}	        # Remove from longest rear (end) pattern
@@ -22,6 +24,5 @@ echo ${var##he}		# ${var##pattern}	Remove from longest front pattern
 # ${var^^pattern}	Convert all character to uppercase..
 # ${parameter:-defaultValue} #	Get default shell variables value
 # ${parameter:=defaultValue} #	Set default shell variables value
-# ${parameter:?"Error Message"} #	Display an error message if parameter is not set
 
 
