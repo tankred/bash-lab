@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.7] - 2020-10-29
+### Added
+- Hello World
+
 ## [0.1.6] - 2020-07-06
 ### Changed
 - Redirect standard output to dev/null 
