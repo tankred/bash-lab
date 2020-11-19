@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.8] - 2020-11-19
+### Changed
+- unset VAR
+
 ## [0.1.7] - 2020-10-29
 ### Added
 - Hello World
