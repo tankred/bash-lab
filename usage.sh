@@ -1,5 +1,6 @@
 #!/bin/bash
 # file.sh: a sample shell script to demonstrate the concept of Bash shell functions
+
 # define usage function
 usage(){
 	echo "Usage: $0 filename"
