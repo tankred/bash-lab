@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2021-01-12
+### Added
+- Learn the difference between single and double quotes
+
 ## [Released]
 
 ## [0.2.2] - 2021-01-07
