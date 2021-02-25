@@ -6,9 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.4] - 2021-02-12
-### Changed
-- Tuning bash boilerplate (personal version) based on boilerplate by Maciej 
+## [0.3.5] - 2021-02-25
+### Added
+- Shell scripting crash course
 
 ## [0.3.3] - 2021-02-03
 ### Added

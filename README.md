@@ -30,3 +30,4 @@ Add link to license file for details
 
 * Hat tip to anyone whose code was used
 * [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/)
+* [Crash course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
