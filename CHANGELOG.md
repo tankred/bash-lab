@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.6] - 2021-03-05
+### Changed
+- Access arguments
+
 ## [0.3.5] - 2021-02-25
 ### Added
 - Shell scripting crash course
