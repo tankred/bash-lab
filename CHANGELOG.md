@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.8] - 2021-03-15
+### Added
+- Crash course bash command 
+
 ## [0.3.7] - 2021-03-12
 ### Changed
 - Crash course bash expressions
