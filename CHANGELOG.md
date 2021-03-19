@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.4.0] - 2021-03-19
+### Changed
+- Bump version to 0.4.0
+
 ## [0.3.9] - 2021-03-19
 ### Changed
 - If file exists 
@@ -43,8 +49,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.0] - 2021-01-12
 ### Added
 - Learn the difference between single and double quotes
-
-## [Released]
 
 ## [0.2.2] - 2021-01-07
 ### Changed
