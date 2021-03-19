@@ -8,6 +8,48 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.4.0] - 2021-03-19
+### Changed
+- Bump version to 0.4.0
+
+## [0.3.9] - 2021-03-19
+### Changed
+- If file exists 
+
+## [0.3.8] - 2021-03-15
+### Added
+- Crash course bash command 
+
+## [0.3.7] - 2021-03-12
+### Changed
+- Crash course bash expressions
+
+## [0.3.6] - 2021-03-05
+### Changed
+- Access arguments
+
+## [0.3.5] - 2021-02-25
+### Added
+- Shell scripting crash course
+
+## [0.3.3] - 2021-02-03
+### Added
+- Ignore swp files
+- bash boilerplate (personal version) 
+
+## [0.3.2] - 2021-01-27
+### Added
+- A README file
+- Boilerplate script
+
+## [0.3.1] - 2021-01-16
+### Added
+- Gzip commpression checker
+
+## [0.3.0] - 2021-01-12
+### Added
+- Learn the difference between single and double quotes
+
 ## [0.2.2] - 2021-01-07
 ### Changed
 - Bump version to 0.2.2
