@@ -43,3 +43,15 @@ if [[ -d "$file" ]]; then echo "is a dir"; fi # True if file exists and is a dir
 [[ "$int1" -ge "$int2" ]] && echo 1 || echo 0 # $int1 >= $int2
 [[ "$int1" -le "$int2" ]] && echo 1 || echo 0 # $int1 <= $int2
 
+# 1. Return values
+
+# If notes.md file doesn't exist, create one and 
+# add the text "created by bash"
+if find notes.md
+then
+  echo "notes.md file already exists"
+else
+  echo "created by bash" | cat >> notes.md
+fi
+
+
