@@ -54,4 +54,17 @@ else
   echo "created by bash" | cat >> notes.md
 fi
 
+# 2. Arithmetic Evaluations
+read -p "Enter your age: " age
+
+if (( "$age" > 18 ))
+then
+  echo "Adult!"
+elif (( "$age" > 12 ))
+then
+  echo "Teen!"
+else
+  echo "Kid"
+fi
+
 
