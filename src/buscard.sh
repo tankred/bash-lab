@@ -56,29 +56,18 @@ yellow="$(tput setaf 3)"
 cat <<EOF
 
 ${cyan}╔═════════════════════════════════════════════════════════╗
-${cyan}║${reset}         ${red}__ __      __    _ __   ____  _           __${reset}    ${cyan}║
-${cyan}║${reset}        ${red}/ //_/_  __/ /_  (_) /__/ __ \(_)  _____  / /${reset}    ${cyan}║
-${cyan}║${reset}       ${red}/ ,< / / / / __ \/ / //_/ /_/ / / |/_/ _ \/ /${reset}     ${cyan}║
-${cyan}║${reset}      ${red}/ /| / /_/ / /_/ / / ,< / ____/ />  </  __/ /${reset}      ${cyan}║
-${cyan}║${reset}     ${red}/_/ |_\__,_/_.___/_/_/|_/_/   /_/_/|_|\___/_/${reset}       ${cyan}║
-${cyan}║${reset}         ${red}-~=# 161 = floss = cypher = nrk #=~-${reset}            ${cyan}║
+${cyan}║                                                         ║
+${cyan}║${reset}         ${red}-~=# 891 = productions =        #=~-${reset}            ${cyan}║
 ${cyan}║                                                         ║
 ${cyan}╠═════════════════════════════════════════════════════════╣
 ${cyan}║                                                         ║
-${cyan}║${reset} ${red}■${reset} ${underline}${bold}KubikPixel:${reset} ${bold}Web & App developer with 3D experiments${reset} ${red}■${reset} ${cyan}║
+${cyan}║${reset}    ${red}■${reset} ${underline}${bold}891_:${reset} ${bold}Art & Web development${reset} ${red}■${reset}                      ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}     ${underline}${bold}Email:${reset}  ${green}kubikpixel@dismail.de                       ${cyan}║
-${cyan}║${reset}      ${underline}${bold}XMPP:${reset}  ${yellow}kubikpixel@dismail.de                       ${cyan}║
-${cyan}║${reset}    ${underline}${bold}Matrix:${reset}  ${cyan}@kubikpixel:tchncs.de                       ${cyan}║
+${cyan}║${reset}     ${underline}${bold}Email:${reset}  ${green}kurt.duyck@protonmail.com                   ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}       ${underline}${bold}Web:${reset}  ${dim}https://thunix.net/${reset}${yellow}~kubikpixel/             ${cyan}║
-${cyan}║${reset}      ${underline}${bold}Blog:${reset}  ${dim}https://paper.wf/${reset}${green}kubikpixel/                ${cyan}║
-${cyan}║${reset}    ${underline}${bold}Gemini:${reset}  ${dim}gemini://tilde.pink/${reset}${white}~kubikpixel/            ${cyan}║
-${cyan}║                                                         ║
-${cyan}║${reset}  ${underline}${bold}Mastodon:${reset}  ${dim}https://chaos.social/${reset}${blue}@kubikpixel            ${cyan}║
-${cyan}║${reset}   ${underline}${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${white}kubikpixel              ${cyan}║
-${cyan}║${reset}    ${underline}${bold}Reddit:${reset}  ${dim}https://www.reddit.com/user/${reset}${red}KubikPixel      ${cyan}║
-${cyan}║${reset}  ${underline}${bold}Codeberg:${reset}  ${dim}https://codeberg.org/${reset}${blue}KubikPixel             ${cyan}║
+${cyan}║${reset}  ${underline}${bold}Mastodon:${reset}  ${dim}https://mastodon.social/${reset}${blue}@miccaman           ${cyan}║
+${cyan}║${reset}   ${underline}${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${white}miccaman                ${cyan}║
+${cyan}║${reset}    ${underline}${bold}Reddit:${reset}  ${dim}https://www.reddit.com/user/${reset}${red}miccaman        ${cyan}║
 ${cyan}║                                                         ║
 ${cyan}║${reset}      ${underline}${bold}Card:${reset}  ${yellow}curl -sL 0x0.st/Nlpj | sh                   ${cyan}║
 ${cyan}║                                                         ║

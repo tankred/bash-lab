@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.4.2] - 2021-04-02
 ### Added
 - Add a looping
+- Update bus card
 
 ## [0.4.1] - 2021-03-26
 ### Added
