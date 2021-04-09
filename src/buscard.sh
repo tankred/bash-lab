@@ -57,19 +57,19 @@ cat <<EOF
 
 ${cyan}╔═════════════════════════════════════════════════════════╗
 ${cyan}║                                                         ║
-${cyan}║${reset}         ${red}-~=# 891 = productions =        #=~-${reset}            ${cyan}║
+${cyan}║${reset}       ${red}-~=#■     891_ productions =       ■#=~-${reset}          ${cyan}║
 ${cyan}║                                                         ║
 ${cyan}╠═════════════════════════════════════════════════════════╣
 ${cyan}║                                                         ║
-${cyan}║${reset}    ${red}■${reset} ${underline}${bold}891_:${reset} ${bold}Art & Web development${reset} ${red}■${reset}                      ${cyan}║
+${cyan}║${reset}    ${red}${reset}  ${bold}891_:${reset} ${bold} Art & Web development${reset} ${red}${reset}                      ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}     ${underline}${bold}Email:${reset}  ${green}kurt.duyck@protonmail.com                   ${cyan}║
+${cyan}║${reset}     ${bold}Email:${reset}  ${green}kurt.duyck@protonmail.com                   ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}  ${underline}${bold}Mastodon:${reset}  ${dim}https://mastodon.social/${reset}${blue}@miccaman           ${cyan}║
-${cyan}║${reset}   ${underline}${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${white}miccaman                ${cyan}║
-${cyan}║${reset}    ${underline}${bold}Reddit:${reset}  ${dim}https://www.reddit.com/user/${reset}${red}miccaman        ${cyan}║
+${cyan}║${reset}  ${bold}Mastodon:${reset}  ${dim}https://mastodon.social/${reset}${blue}@miccaman           ${cyan}║
+${cyan}║${reset}   ${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${white}miccaman                ${cyan}║
+${cyan}║${reset}    ${bold}Reddit:${reset}  ${dim}https://www.reddit.com/user/${reset}${red}miccaman        ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}      ${underline}${bold}Card:${reset}  ${yellow}curl -sL 0x0.st/Nlpj | sh                   ${cyan}║
+${cyan}║${reset}      ${bold}Card:${reset}  ${yellow}curl -sL 0x0.st/Nlpj | sh                   ${cyan}║
 ${cyan}║                                                         ║
 ${cyan}╚═════════════════════════════════════════════════════════╝
 
