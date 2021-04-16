@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.4.5] - 2021-04-16
 ### Changed
 - Crash course: Iterating over arguments
+- Finetuning buscard
 
 ## [0.4.4] - 2021-04-09
 ### Changed
