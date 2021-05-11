@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.6] - 2021-05-11
+### Added
+- Using pass to handle passwords
+
 ## [0.4.5] - 2021-04-16
 ### Changed
 - Crash course: Iterating over arguments
