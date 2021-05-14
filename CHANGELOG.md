@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.5.0] - 2021-05-14
+### Changed
+- Bump version to 0.5.0
+- Drop master branch
+
 ## [0.4.6] - 2021-05-11
 ### Added
 - Using pass to handle passwords
@@ -33,8 +40,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - A CLI business card
 ### Changed
 - Bash course conditionals
-
-## [Released]
 
 ## [0.4.0] - 2021-03-19
 ### Changed
