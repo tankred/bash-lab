@@ -7,22 +7,22 @@ script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd -P)
 
 version() {
   cat <<EOF
-v0.1.0
+v0.1.1
 EOF
   exit 0
 }
 
 usage() {
   cat <<EOF
-Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] [-f] -p param_value arg1 [arg2...]
+Usage: $(basename "${BASH_SOURCE[0]}") [-h] [-v] 
 
-Script description here.
+Sample script retrieving a password from pass
+https://www.passwordstore.org
 
 Available options:
 
 -h, --help      Print this help and exit
 -v, --verbose   Print script debug info
--f, --flag      Some flag description
 EOF
   exit
 }
@@ -31,8 +31,8 @@ process() {
   echo "-------------------------------"
   echo "       concrete pass lab       "
   echo "-------------------------------"
-  pass -c email/jasondonenfeld.com
-  #echo "$PASS"
+  PASS=$(pass email/jasondonenfeld.com)
+  echo "$PASS"
   exit 0
 }
 
