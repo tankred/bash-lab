@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.6.0] - 2021-05-22
+### Added
+- Gnu GPLv3
+
+## [0.5.2] - 2021-05-18
+### Changed
+- Get pass in a var
+- Update buscard (add url)
+
 ## [0.5.0] - 2021-05-14
 ### Changed
 - Bump version to 0.5.0
@@ -131,3 +140,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - This CHANGELOG file 
 - README
 - usage.sh
+
+## [0.0.5] - 2018-10-19
+### Changed
+- shellcheck -V #--version
+- dnf install ShellCheck
+- 20180330; skipped +1 ♦
+- 20180706; skipped +1
+- 20181019; skipped +1

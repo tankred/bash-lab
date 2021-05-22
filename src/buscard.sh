@@ -69,7 +69,7 @@ ${cyan}║${reset}  ${bold}Mastodon:${reset}  ${dim}https://mastodon.social/${re
 ${cyan}║${reset}   ${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${white}miccaman                ${cyan}║
 ${cyan}║${reset}    ${bold}Reddit:${reset}  ${dim}https://www.reddit.com/user/${reset}${red}miccaman        ${cyan}║
 ${cyan}║                                                         ║
-${cyan}║${reset}      ${bold}Card:${reset}  ${yellow}curl -sL  *URL here  | sh                   ${cyan}║
+${cyan}║${reset}      ${bold}Card:${reset}  ${yellow}curl -sL https://ttm.sh/2eR | sh            ${cyan}║
 ${cyan}║                                                         ║
 ${cyan}╚═════════════════════════════════════════════════════════╝
 
